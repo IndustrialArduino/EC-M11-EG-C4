@@ -17,3 +17,6 @@ IP67 Rated Enclosure
 6:   Pink:    -
 7:   Blue:    Power+
 8:   Red:     Power-
+
+Datasheet:   https://drive.google.com/open?id=1rSXLA73Lr0dO2EYAmSzQZ8B0WDWdLDL8&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1fz7tKiawyVYdW4TPfVjRWL247G0NH-Nz&usp=drive_fs
