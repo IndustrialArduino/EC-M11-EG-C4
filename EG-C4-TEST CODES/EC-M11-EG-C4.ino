@@ -1,12 +1,12 @@
 /***************************************************
-  This is an example of the Adafruit Thermocouple Sensor w/MAX31855K
+  This is an example for the Adafruit Thermocouple Sensor w/MAX31855K
 
   Designed specifically to work with the Adafruit Thermocouple Sensor
   ----> https://www.adafruit.com/products/269
 
   These displays use SPI to communicate, 3 pins are required to
   interface
-  Adafruit invests time and resources in providing this open-source code,
+  Adafruit invests time and resources providing this open source code,
   please support Adafruit and open-source hardware by purchasing
   products from Adafruit!
 
